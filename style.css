@@ -1,0 +1,51 @@
+
+/*Top level menu link items style*/
+.menuLink a{
+	
+	display: block;
+	
+	padding: 2px 8px;
+	border: 1px solid #202020;
+	border-left-width: 0;
+	text-decoration: none;
+	background: url(menubg.gif) center center repeat-x;
+	color: black;
+	font-family: Arial;
+	font-size-adjust: 12px
+}
+	
+
+.menuLink a:hover{
+background: url(menubgover.gif) center center repeat-x;
+}
+
+
+
+.normal{
+	font-size: 14px;
+	text-align: justify;
+	font-family: Arial;
+}	
+.floating{
+    height: 158px;
+    background-image: url('baner.jpg');
+    width: 900px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #911515;
+    
+
+}
+.days{
+	font-family: lucida, arial;
+	font-size: 18px;
+	background-color: yellow;
+}
+
+
+.comiteeLeft{
+	font-size: 13px;
+	font-family: arial;
+	height: 40px
+}
+	
